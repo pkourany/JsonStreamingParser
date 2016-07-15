@@ -19,4 +19,4 @@ class DemoListener: public JsonListener {
     
     void startObject(String key);
     void endObject();
-}
+};
