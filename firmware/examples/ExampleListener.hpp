@@ -16,7 +16,7 @@ class ExampleListener : public JsonListener {
 
     void startArray(String key);
     void endArray();
-    
+
     void startObject(String key);
     void endObject();
 };
