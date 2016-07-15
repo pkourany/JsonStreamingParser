@@ -2,7 +2,7 @@
 
 #include "JsonListener.h"
 
-class ExampleListener: public JsonListener {
+class DemoListener: public JsonListener {
 
   public:
     void whitespace(char c);
